@@ -17,7 +17,7 @@ public class Mongo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("running...");
+        System.out.println("...running...");
     }
     
 }
